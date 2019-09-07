@@ -1,2 +1,2 @@
-/// @description Set fixed rotation
+/// @description Collide
 phy_fixed_rotation = true;

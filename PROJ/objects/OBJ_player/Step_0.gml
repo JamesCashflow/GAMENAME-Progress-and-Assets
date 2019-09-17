@@ -22,6 +22,6 @@ if (upkey) {
 }
 
 // Move down
-if (downkey) {
+if ( downkey) {
 	phy_position_y += spd;
-}
+}  
